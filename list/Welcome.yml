@@ -1,0 +1,13 @@
+address: Ym90/Module-Welcome
+branches: 
+  bata: ~
+  devbuild: devbuild
+  release: main
+description: "Welcome new members when they Join"
+name: Welcome
+sponsor: ~
+sponsor_url: ~
+maintaner: @IGSteven
+maintaner_url: https://igsteven.com/
+supported-services: 
+  - Discord
