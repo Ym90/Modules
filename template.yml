@@ -1,0 +1,13 @@
+address: GithubUsername/repository
+branches: 
+  bata: ~
+  devbuild: devbuild
+  release: main
+description: "A Short Discription"
+name: ModuleName
+sponsor: ~
+sponsor_url: ~
+maintaner: You or your Org
+maintaner_url: Your Website
+supported-services: 
+  - Discord
