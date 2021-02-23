@@ -1,0 +1,13 @@
+address: IGSteven/Ym90-Bacon-React
+branches: 
+  bata: ~
+  devbuild: ~
+  release: main
+description: "Simple fun module, when ever someone mentions bacon in discord it reacts with bacon"
+name: bacon
+sponsor: ~
+sponsor_url: ~
+maintaner: @IGSteven
+maintaner_url: https://igsteven.com/
+supported-services: 
+  - Discord
